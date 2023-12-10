@@ -1,0 +1,135 @@
+track_id,artists,track_name,popularity,duration_ms,explicit,danceability,energy,loudness,speechiness,acousticness,liveness,valence,track_genre
+6XrNrp7UtGgyZcHJ0ckL0w,Rachael Yamagata,"\"\"\"Something In the Rain\"\" (Something In the Rain",,49,296862,,0.422,4.0,0.0,0.0353,1.07E-5,0.0704,4
+6IzCMc8FsDHN8TUXKR2dIt,Edward Elgar;Arioso Quartett Wien,"\"Variations on an Original Theme, Op. 36 \"\"Enigma\"\": Var. 9",,0,226626,,0.113,3.0,1.0,0.0418,0.857,0.112,4
+14Qcrx6Dfjvcj0H8oV8oUW,London Symphony Orchestra,"\"\"\"In The Hall Of The Mountain King\"\" from Peer Gynt Suite N°1",,51,150826,,0.475,7.0,1.0,0.051,0.956,0.101,4
+3uoozQ77UjBn4os2UnNMSb,Howard Blake;Vladimir Ashkenazy,"\"Walking In The Air (Excerpt \"\"Lifecycle\"\")",,0,186000,,0.317,1.0,0.0,0.0609,0.941,0.0951,4
+39XjBtONTw3TGoVN51X4tE,Robert Owens;Atjazz,Snuff Crew,,,Matthias Heilbronn & Joeski,,,471050.0,0.802,0.753,-7.923,1.0,0.576
+0HOrX3f1vhUpn5hknKAM9W,Johann Sebastian Bach;Gundula Janowitz;Christa Ludwig;Fritz Wunderlich;Münchener Bach-Orchester;Karl Richter,"\"Christmas Oratorio, BWV 248 / Pt. 5 - For the 1st Sunday in the New Year: No. 51 Terzetto: \"\"Ach",,0,320173,,0.343,11.0,0.0,0.0578,0.0,0.532,4
+3FRKJyEazxmrH3Ez8FFUIx,Johann Sebastian Bach;The Monteverdi Choir;English Baroque Soloists;John Eliot Gardiner,"\"Christmas Oratorio, BWV 248 / Part One - For The First Day Of Christmas: No. 1 Chorus: \"\"Jauchzet",,0,459360,,0.499,1.0,1.0,0.0382,0.161,0.131,3
+0HOrX3f1vhUpn5hknKAM9W,Johann Sebastian Bach;Gundula Janowitz;Christa Ludwig;Fritz Wunderlich;Münchener Bach-Orchester;Karl Richter,"\"Christmas Oratorio, BWV 248 / Pt. 5 - For the 1st Sunday in the New Year: No. 51 Terzetto: \"\"Ach",,0,320173,,0.343,11.0,0.0,0.0578,0.0,0.532,4
+7IDaLz6aKLJBDiI2SGyU69,Frédéric Chopin;Bruce Liu,"\"Variations on \"\"Là ci darem la mano\"\" from Mozart's Don Giovanni",,0,235253,,0.323,10.0,1.0,0.0322,0.891,0.693,4
+0huiFyRSfBMAcFCErjxbiL,Johann Sebastian Bach;Olaf Bär;Crispian Steele-Perkins;English Baroque Soloists;John Eliot Gardiner,"\"Christmas Oratorio, BWV 248 / Part One - For The First Day Of Christmas: No. 8 Aria: \"\"Großer Herr",,0,262306,,0.579,1.0,1.0,0.0446,0.00202,0.0551,4
+0c1rZSPk2AtPkcfjfsU7QB,Johann Sebastian Bach;The Monteverdi Choir;English Baroque Soloists;John Eliot Gardiner,"\"Christmas Oratorio, BWV 248 / Part One - For The First Day Of Christmas: No. 1 Chorus: \"\"Jauchzet",,0,459360,,0.499,1.0,1.0,0.0382,0.161,0.131,3
+4335pP7BWDcZtaiLz1NEMb,Johann Sebastian Bach;Olaf Bär;Crispian Steele-Perkins;English Baroque Soloists;John Eliot Gardiner,"\"Christmas Oratorio, BWV 248 / Part One - For The First Day Of Christmas: No. 8 Aria: \"\"Großer Herr",,0,262306,,0.579,1.0,1.0,0.0446,0.00202,0.0551,4
+7gcEhyaquVPjSkUj9rugM3,Johann Sebastian Bach;The Monteverdi Choir;English Baroque Soloists;John Eliot Gardiner,"\"Christmas Oratorio, BWV 248 / Part One - For The First Day Of Christmas: No. 1 Chorus: \"\"Jauchzet",,0,459360,,0.499,1.0,1.0,0.0382,0.161,0.131,3
+5aGhOb4iwTbfrgxQGjGwyC,Franz Schubert;Mischa Maisky;Pavel Gililov,"\"Ave Maria, \"\"Ellens Gesang III\"\"",,,0,335666.0,,0.0325,-26.707,1.0,0.995,0.864,68.958
+1WFKR1UoO2aHEYnCUWEzdI,Franz Schubert;Mischa Maisky;Pavel Gililov,"\"Ave Maria, \"\"Ellens Gesang III\"\"",,,0,335666.0,,0.0325,-26.707,1.0,0.995,0.864,68.958
+3DNRdudZ2SstnDCVKFdXxG,Ludwig van Beethoven;Paul Lewis,"\"Sonata No. 14 \"\"Moonlight\"\" in C-Sharp Minor\"\"",,69,315426,,0.184,1.0,0.0,0.0432,0.887,0.173,3
+6IzCMc8FsDHN8TUXKR2dIt,Edward Elgar;Arioso Quartett Wien,"\"Variations on an Original Theme, Op. 36 \"\"Enigma\"\": Var. 9",,0,226626,,0.113,3.0,1.0,0.0418,0.857,0.112,4
+4ogHSgRXA2dSDQua8eOJ1a,Wolfgang Amadeus Mozart;Danielle Laval,"\"7 Variations on \"\"Willem van Nassau\"\" in D",,25,48835,,0.348,2.0,1.0,0.0407,0.976,0.108,4
+4uaRUpAdVcjF5ME0QoZfuG,Wolfgang Amadeus Mozart;Danielle Laval,"\"12 Variations in C Major on \"\"Ah",,,25,43586.0,,0.175,-19.716,1.0,0.974,0.853,74.077
+3AyVRsHBE2bUvL70CRrbpY,Wolfgang Amadeus Mozart;Danielle Laval,"\"6 Variations on \"\"Mio caro Adone\"\" by Salieri in B",,24,49869,,0.226,7.0,1.0,0.0477,0.982,0.156,3
+3Bh4cdwJOL0wL6nuJBbXDD,Wolfgang Amadeus Mozart;Jan Lisiecki,"\"12 Variations in C Major on \"\"Ah",,,25,50080.0,,0.0503,-32.576,1.0,0.991,0.928,125.262
+1oEgmf8WOKdeTFDJkRy7oX,Wolfgang Amadeus Mozart;Danielle Laval,"\"8 Variations on \"\"Laat ons juichen\"\" by C.E. Graaf in G",,26,37132,,0.506,7.0,1.0,0.0624,0.96,0.173,4
+6X8jY9ucVRdfd3gO5WChAR,Wolfgang Amadeus Mozart;Jan Lisiecki,"\"12 Variations in C Major on \"\"Ah",,,14,54853.0,,0.0757,-32.14,1.0,0.995,0.881,117.11
+5wRTq7QEn6I3pDm8sWYOnX,Wolfgang Amadeus Mozart;Arthur Grumiaux;Walter Klien,"\"6 Variations in G minor for Piano & Violin on \"\"Hélas",,17,60026,,0.336,0.0,0.0,0.0493,0.698,0.124,4
+4lvfOnCUxyT3aKKamZ3WXu,Wolfgang Amadeus Mozart;Danielle Laval,"\"12 Variations in C Major on \"\"Ah",,,6,41893.0,,0.221,-20.543,1.0,0.98,0.96,148.759
+4GdCiwOXIpmQGUWl5XBqyr,Wolfgang Amadeus Mozart;Arthur Grumiaux;Walter Klien,"\"6 Variations in G minor for Piano & Violin on \"\"Hélas",,6,55613,,0.308,7.0,0.0,0.0446,0.971,0.178,4
+7gK2q5m7SDSY4MDPvv3v9c,Wolfgang Amadeus Mozart;Members of the Netherlands Wind Ensemble;Werner Herbers;Carlo Ravelli;Hans Mossel;Hens Otter;Joep Terwey;Kees Olthuis;Iman Soeteman;Jan Peeters;Hans Krul,"\"Don Giovanni, ossia Il dissoluto punito, K.527 - Arr. for 8 wind instruments by Johann G. Triebensee (1746-1813) - Act 1: \"\"Madamina",,6,99986,,0.495,7.0,1.0,0.038,0.847,0.222,4
+7rN1USAZLV2lsOT2e3ExHk,Wolfgang Amadeus Mozart;Arthur Grumiaux;Walter Klien,"\"6 Variations in G minor for Piano & Violin on \"\"Hélas",,17,61826,,0.368,0.0,0.0,0.0457,0.163,0.121,4
+1EkZwXMnHCeUytuhYtIZxD,Wolfgang Amadeus Mozart;Danielle Laval,"\"7 Variations on \"\"Willem van Nassau\"\" in D",,7,50859,,0.532,2.0,1.0,0.0492,0.926,0.107,4
+68C8uCsILO5tzhXpLKhCiU,Wolfgang Amadeus Mozart;Ingrid Haebler,"\"12 Variations on \"\"Je suis Lindor\"\"",,1,1095053,,0.292,3.0,1.0,0.0411,0.908,0.1,4
+6RYmlLkbx5ZAbOjKDqXEzp,Wolfgang Amadeus Mozart;Danielle Laval,"\"8 Variations on \"\"Laat ons juichen\"\" by C.E. Graaf in G",,17,46741,,0.354,7.0,1.0,0.0463,0.964,0.142,4
+3uaesxnuZHvLqj97FUpOlg,Wolfgang Amadeus Mozart;Danielle Laval,"\"6 Variations on \"\"Mio caro Adone\"\" by Salieri in B",,10,81381,,0.239,7.0,1.0,0.0423,0.925,0.125,4
+2HyJhQXLIyysNuz89x3Nr4,Wolfgang Amadeus Mozart;Danielle Laval,"\"12 Variations in C Major on \"\"Ah",,,15,58360.0,,0.094,-25.717,1.0,0.995,0.915,105.188
+5A8k6g1JknnqaDmwORk0OO,Wolfgang Amadeus Mozart;Danielle Laval,"\"12 Variations in C Major on \"\"Ah",,,9,77613.0,,0.136,-20.967,1.0,0.98,0.898,151.539
+03i1QjoLwu6Ckif1H1624A,Wolfgang Amadeus Mozart;Ingrid Haebler,"\"6 Variations on \"\"Mio caro adone\"\"",,4,507146,,0.264,7.0,1.0,0.0412,0.955,0.0849,4
+6eQTeIdkBX13Vk8o0op375,Wolfgang Amadeus Mozart;Danielle Laval,"\"7 Variations on \"\"Willem van Nassau\"\" in D",,20,52202,,0.342,2.0,1.0,0.0472,0.944,0.112,3
+77Muh1dgaxUOU8CxmWmihb,Wolfgang Amadeus Mozart;Members of the Netherlands Wind Ensemble,"\"Don Giovanni, K.527 / Act 1: \"\"Madamina",,7,99000,,0.511,7.0,1.0,0.0377,0.814,0.111,4
+1HxcdVSe2UUdU4RBVOXM9h,Wolfgang Amadeus Mozart;Wiener Mozart Ensemble;Willi Boskovsky,"\"Contredanse in C, - \"\"La Bataille\"\"",,1,92000,,0.622,0.0,1.0,0.048,0.305,0.044,4
+4lvfOnCUxyT3aKKamZ3WXu,Wolfgang Amadeus Mozart;Danielle Laval,"\"12 Variations in C Major on \"\"Ah",,,6,41893.0,,0.221,-20.543,1.0,0.98,0.96,148.759
+4GdCiwOXIpmQGUWl5XBqyr,Wolfgang Amadeus Mozart;Arthur Grumiaux;Walter Klien,"\"6 Variations in G minor for Piano & Violin on \"\"Hélas",,6,55613,,0.308,7.0,0.0,0.0446,0.971,0.178,4
+7gK2q5m7SDSY4MDPvv3v9c,Wolfgang Amadeus Mozart;Members of the Netherlands Wind Ensemble;Werner Herbers;Carlo Ravelli;Hans Mossel;Hens Otter;Joep Terwey;Kees Olthuis;Iman Soeteman;Jan Peeters;Hans Krul,"\"Don Giovanni, ossia Il dissoluto punito, K.527 - Arr. for 8 wind instruments by Johann G. Triebensee (1746-1813) - Act 1: \"\"Madamina",,6,99986,,0.495,7.0,1.0,0.038,0.847,0.222,4
+0DPcJVMHiqvl4oWuaG48lo,Wolfgang Amadeus Mozart;Jan Lisiecki,"\"12 Variations in C Major on \"\"Ah",,,11,57133.0,,0.0159,-35.666,1.0,0.991,0.877,114.211
+0qLzylCTgseaShZirfSti6,Wolfgang Amadeus Mozart;Arthur Grumiaux;Walter Klien,"\"6 Variations in G minor for Piano & Violin on \"\"Hélas",,11,60026,,0.336,0.0,0.0,0.0493,0.698,0.124,4
+5qXK6Tfrw2dVzb5uM992wP,Wolfgang Amadeus Mozart;Danielle Laval,"\"12 Variations in C Major on \"\"Ah",,,15,64680.0,,0.00917,-35.767,1.0,0.992,0.941,76.791
+0vaPEm3RwpcmuotshfFN4t,Wolfgang Amadeus Mozart;Danielle Laval,"\"12 Variations in C Major on \"\"Ah",,,12,64906.0,,0.0554,-25.817,1.0,0.987,0.889,68.453
+01rJO8OPtenCTy0TbOaZBD,Wolfgang Amadeus Mozart;Members of the Netherlands Wind Ensemble;Werner Herbers;Carlo Ravelli;Hans Mossel;Hens Otter;Joep Terwey;Kees Olthuis;Iman Soeteman;Jan Peeters;Hans Krul,"\"Don Giovanni, ossia Il dissoluto punito, K.527 - Arr. for 8 wind instruments by Johann G. Triebensee (1746-1813) - Act 1: \"\"Madamina",,3,99986,,0.495,7.0,1.0,0.038,0.847,0.222,4
+0tTTP6Pu4EdhRUJjyxIJqq,Tokyo Disneyland,"\"Disney's Halloween Parade \"\"Let's Go",,22,366321,,0.506,0.0,1.0,0.126,0.0,0.192,4
+0huiFyRSfBMAcFCErjxbiL,Johann Sebastian Bach;Olaf Bär;Crispian Steele-Perkins;English Baroque Soloists;John Eliot Gardiner,"\"Christmas Oratorio, BWV 248 / Part One - For The First Day Of Christmas: No. 8 Aria: \"\"Großer Herr",,0,262306,,0.579,1.0,1.0,0.0446,0.00202,0.0551,4
+3FRKJyEazxmrH3Ez8FFUIx,Johann Sebastian Bach;The Monteverdi Choir;English Baroque Soloists;John Eliot Gardiner,"\"Christmas Oratorio, BWV 248 / Part One - For The First Day Of Christmas: No. 1 Chorus: \"\"Jauchzet",,0,459360,,0.499,1.0,1.0,0.0382,0.161,0.131,3
+0c1rZSPk2AtPkcfjfsU7QB,Johann Sebastian Bach;The Monteverdi Choir;English Baroque Soloists;John Eliot Gardiner,"\"Christmas Oratorio, BWV 248 / Part One - For The First Day Of Christmas: No. 1 Chorus: \"\"Jauchzet",,0,459360,,0.499,1.0,1.0,0.0382,0.161,0.131,3
+0HOrX3f1vhUpn5hknKAM9W,Johann Sebastian Bach;Gundula Janowitz;Christa Ludwig;Fritz Wunderlich;Münchener Bach-Orchester;Karl Richter,"\"Christmas Oratorio, BWV 248 / Pt. 5 - For the 1st Sunday in the New Year: No. 51 Terzetto: \"\"Ach",,0,320173,,0.343,11.0,0.0,0.0578,0.0,0.532,4
+4335pP7BWDcZtaiLz1NEMb,Johann Sebastian Bach;Olaf Bär;Crispian Steele-Perkins;English Baroque Soloists;John Eliot Gardiner,"\"Christmas Oratorio, BWV 248 / Part One - For The First Day Of Christmas: No. 8 Aria: \"\"Großer Herr",,0,262306,,0.579,1.0,1.0,0.0446,0.00202,0.0551,4
+7gcEhyaquVPjSkUj9rugM3,Johann Sebastian Bach;The Monteverdi Choir;English Baroque Soloists;John Eliot Gardiner,"\"Christmas Oratorio, BWV 248 / Part One - For The First Day Of Christmas: No. 1 Chorus: \"\"Jauchzet",,0,459360,,0.499,1.0,1.0,0.0382,0.161,0.131,3
+3DNRdudZ2SstnDCVKFdXxG,Ludwig van Beethoven;Paul Lewis,"\"Sonata No. 14 \"\"Moonlight\"\" in C-Sharp Minor\"\"",,69,315426,,0.184,1.0,0.0,0.0432,0.887,0.173,3
+35e4wuO9wRz1KhgqtKt7bT,SDP,"\"Amaranth (aus \"\"Sing meinen Song",,43,204733,,0.744,7.0,0.0,0.0719,0.0,0.108,4
+7lMHhos0TYvpuDblM5IrYZ,SDP,"\"Zwischen Mann und Kind (aus \"\"Sing meinen Song",,40,190813,,0.608,7.0,1.0,0.185,0.0,0.352,4
+48RME2XQqVXIaH54NA4pRe,Estas Tonne,Live in Odeon,,,48,549809.0,,0.825,-10.095,0.0,0.68,0.946,89.01
+60OYt48sgi0ASxuvABRDPU,Winifred Atwell,"Vol. 3)\"",,14,129080,,0.594,2.0,0.0,0.0278,0.526,0.245,4
+752bfwICDGzeEHK4CKVysP,Alireza Mashayekhi;Layla Ramezan,"Vol.2\"\"\"",,0,280000,,0.328,4.0,0.0,0.0567,0.865,0.0758,4
+566a7dTOVVrlkxInf393R4,Alireza Mashayekhi;Djamchid Chemirani;Keyvan Chemirani,"Vol.2\"\"\"",,0,101600,,0.556,6.0,1.0,0.655,1.28E-4,0.18,3
+3hTbZfEiLxWgaaH1Ld03ja,Alireza Mashayekhi;Layla Ramezan,"Vol.2\"\"\"",,0,129000,,0.377,10.0,1.0,0.0518,0.755,0.0595,5
+4ybUBJ6bQzzdreFHPWIYTH,Alireza Mashayekhi;Djamchid Chemirani;Keyvan Chemirani,"Vol.2\"\"\"",,0,62200,,0.61,0.0,1.0,0.908,1.48E-5,0.112,3
+7IMgoSqmJPp9O6T4JwZ6pO,Alireza Mashayekhi;Layla Ramezan,"Vol.2\"\"\"",,0,308200,,0.328,4.0,0.0,0.0513,0.878,0.0799,1
+3JtsgZ5rmgcDScknmcKnqQ,Alireza Mashayekhi;Djamchid Chemirani;Keyvan Chemirani,"Vol.2\"\"\"",,0,101800,,0.554,2.0,1.0,0.314,6.17E-4,0.109,5
+2a43lspHu12HwxseKw3AWl,Alireza Mashayekhi;Djamchid Chemirani;Keyvan Chemirani,"Vol.2\"\"\"",,0,111600,,0.563,9.0,1.0,0.278,0.00158,0.0998,5
+6i6I1aWvQyzsSsvxm4pGMA,Alireza Mashayekhi;Djamchid Chemirani;Keyvan Chemirani,"Vol.2\"\"\"",,0,212200,,0.523,2.0,0.0,0.123,0.0173,0.11,5
+23ScWxX03wsFf1oyi57ouP,Hayley Westenra,"\"River Of Dreams (adapted from \"\"The Four Seasons: Winter",,24,259760,,0.233,7.0,1.0,0.0379,7.26E-6,0.182,1
+0Qv1xmPwI57jlxymEy565g,Giacomo Puccini;Rolando Panerai;Gianni Maffeo;Luciano Pavarotti;Mirella Freni;Schöneberger Sängerknaben;Chor der Deutschen Oper Berlin;Berliner Philharmoniker;Herbert von Karajan,"\"La bohème, SC 67 / Act 2: \"\"Arranci",,29,172706,,0.359,5.0,1.0,0.0949,0.771,0.765,4
+4DyFhKqtKbM8eLdehJfBg0,Giacomo Puccini;Kiri Te Kanawa;London Symphony Orchestra;Stephen Barlow,"\"Gianni Schicchi: \"\"O",,27,146986,,0.21,8.0,1.0,0.0462,7.86E-4,0.115,3
+0sXuC1OYFvjyQKqsA7RhSN,Alfredo Catalani;Cristina Gallardo-Domas;Maurizio Barbacini;Das Münchner Rundfunkorchester;Munich Radio Orchestra,"\"Catalani: La Wally, Act 1: \"\"Ebben",,27,223386,,0.276,4.0,1.0,0.051,0.0436,0.0865,3
+38youdkof2MlfbLtoAht2v,"Vincenzo Bellini;Maria Callas;Coro Del Teatro Alla Scala Di Milano;Tullio Serafin;Orchestra Del Teatro Alla Scala, Milano","\"Bellini: Norma, Act 1: \"\"Casta diva\"\" (Norma",,27,340200,,0.288,5.0,1.0,0.0397,4.83E-4,0.0962,5
+0zrpczV6BD4hopivjRyRHk,Giuseppe Verdi;Riccardo Muti;New Philharmonia Orchestra,"\"Verdi: Aida, Act 1:\"\" Sì",,,26,95333.0,,0.138,-24.527,1.0,0.985,0.00519,76.691
+47FXz8qV9B45S1OYPjJ3ag,Giacomo Puccini;Kiri Te Kanawa;National Philharmonic Orchestra;Sir Georg Solti,"\"Tosca / Act 2: \"\"Vissi d'arte",,25,206266,,0.248,3.0,1.0,0.0464,0.00201,0.209,3
+2gMfOAs6YdVpZsunYWjpUM,Giacomo Puccini;Luciano Pavarotti;Mirella Freni;Elizabeth Harwood;Rolando Panerai;Berliner Philharmoniker;Herbert von Karajan,"\"La bohème, SC 67 / Act 3: \"\"Dunque: è proprio finita!...Addio",,25,368000,,0.236,6.0,1.0,0.043,0.00608,0.121,4
+1WBfzmOEVFIiDvte4al0ND,Georges Bizet;Maria Callas;Nicolai Gedda;Orchestre de l'Opéra National de Paris;Georges Prêtre;Orchestre du Théâtre National de l'Opéra Paris;Paris Opera Orchestra,"\"Bizet: Carmen, WD 31, Act 1 Scene 10: No. 10, Séguedille et Duo, \"\"Près des remparts de Séville\"\" (Carmen",,26,276453,,0.307,2.0,1.0,0.0463,0.0,0.107,4
+2AczNQ6f0bqfBU3oEnuB0e,"Giuseppe Verdi;Riccardo Muti;Chorus of the Royal Opera House, Covent Garden;Fiorenza Cossotto;Luigi Roni;Montserrat Caballé;Nicola Martinucci;Nicolai Ghiaurov;Plácido Domingo;New Philharmonia Orchestra","\"Verdi: Aida, Act 1: \"\"Alta cagion v'aduna\"\" (Il Re",,,Ramfis,,,25.0,,0.347,0.0,-16.853,0.983
+5Htiwvreftu63VjswZuGNv,"Giuseppe Verdi;Riccardo Muti;Chorus of the Royal Opera House, Covent Garden;Fiorenza Cossotto;Luigi Roni;Montserrat Caballé;Nicolai Ghiaurov;Plácido Domingo;New Philharmonia Orchestra","\"Verdi: Aida, Act 1: \"\"Su! del Nilo al sacro lido\"\" (Il Re",,,Radamès,,,187866.0,0.376,0.404,-11.763,1.0,0.159
+7IFGyDgc41ObAOSodVPgO5,Giacomo Puccini;Luciano Pavarotti;Rolando Panerai;Gianni Maffeo;Nicolai Ghiaurov;Berliner Philharmoniker;Herbert von Karajan,"\"La bohème, SC 67 / Act 4: \"\"O Mimì",,25,327800,,0.28,0.0,1.0,0.0475,0.0162,0.288,3
+7bYvoTkffM8RFN54pfI80o,Giacomo Puccini;Nicolai Ghiaurov;Gianni Maffeo;Berliner Philharmoniker;Herbert von Karajan,"\"La bohème, SC 67 / Act 4: \"\"Vecchia zimarra",,25,151733,,0.264,1.0,0.0,0.059,0.0434,0.539,4
+7x56g3SKfKeE4XRg9MsTyi,Giuseppe Verdi;Carlo Rizzi;Edita Gruberova;London Symphony Orchestra;Neil Shicoff,"\"Verdi: La traviata, Act 1: \"\"Un dì felice\"\" (Alfredo",,,25,189239.0,,0.149,-18.318,1.0,0.976,1.33E-5,95.073
+5TauOOWDO0EkuOiHpFuqPq,Giuseppe Verdi;Riccardo Muti;New Philharmonia Orchestra,"\"Verdi: Aida, Act 1: \"\"Quale insolita gioia nel tuo sguardo!\"\" (Amneris",,25,198693,,0.327,5.0,1.0,0.0519,9.71E-6,0.606,4
+2Ds474qqtyqLLchiomhcqn,"Giuseppe Verdi;Riccardo Muti;Chorus of the Royal Opera House, Covent Garden;Trumpeters of the Royal Military School of Music;New Philharmonia Orchestra","\"Verdi: Aida, Act 2: \"\"Gloria all'Egitto",,25,182800,,0.26,3.0,1.0,0.034,0.235,0.565,3
+54yvP5Iqo4sxdoXUeWVzzb,Giuseppe Verdi;Riccardo Muti;New Philharmonia Orchestra,"\"Verdi: Aida, Act 1: \"\"Vieni",,,Aida,,25.0,,0.213,4.0,0.0,0.0428,0.34
+6N2QRUQhIVqE9deWQxCniK,Georges Bizet;Pierre Dervaux;Orchestre du Theatre National de IOpera-Comique,"\"Bizet: Les Pêcheurs de perles, Act 1: \"\"Au fond du temple saint\"\" (Nadir",,23,326253,,0.194,3.0,1.0,0.0392,0.00766,0.113,5
+4esQg7skEqenIr8UETuDHf,Giacomo Puccini;Tom Krause;Pier Francesco Poli;Piero de Palma;London Philharmonic Orchestra;Zubin Mehta,"\"Turandot / Act 2: \"\"Olà",,,23,197466.0,,0.285,-18.528,0.0,0.961,0.00137,121.165
+23ScWxX03wsFf1oyi57ouP,Hayley Westenra,"\"River Of Dreams (adapted from \"\"The Four Seasons: Winter",,24,259760,,0.233,7.0,1.0,0.0379,7.26E-6,0.182,1
+79n5XSMDM8GKbFC2r8XdNF,Giuseppe Verdi;Riccardo Muti;Montserrat Caballé;New Philharmonia Orchestra,"\"Verdi: Aida, Act 1: \"\"I sacri nomi di padre",,24,199866,,0.24,8.0,1.0,0.0474,0.0183,0.149,3
+2FLzp0ZpJ5QVWeS1lhKmSE,Léo Delibes;Natalie Dessay;Delphine Haidan;Michel Plasson;Orchestre Du Capitole De Toulouse,"\"Delibes: Lakmé, Act I: \"\"Dôme épais",,,23,287760.0,,0.153,-17.618,1.0,0.976,1.12E-4,131.721
+1reLj9gizcW2Igb1SmaXAl,Giacomo Puccini;John Alldis Choir;London Philharmonic Orchestra;Zubin Mehta,"\"Turandot / Act 2: \"\"Gravi",,22,207160,,0.212,8.0,1.0,0.0332,0.74,0.133,4
+7pXiLEwD2MGi404pYzmMU6,Alfredo Kraus;Symphony Orchestra of Madrid;Kurt Sanderling,"\"I puritani, Act I: \"\" A te",,0,199053,,0.294,2.0,1.0,0.0359,1.55E-4,0.0991,4
+4aAeGUBWayg0PVqW3xuf8n,Giuseppe Verdi;Riccardo Muti;New Philharmonia Orchestra,"\"Verdi: Aida, Act 1: \"\"Danza sacra delle sacerdotesse\"\" (Sacerdotesse",,,23,131706.0,,0.00377,-40.046,1.0,0.986,0.447,81.078
+2pOf0PQbBm4lMNbinCSFkD,"Giuseppe Verdi;Riccardo Muti;Chorus of the Royal Opera House, Covent Garden;New Philharmonia Orchestra","\"Verdi: Aida, Act 2: \"\"Vieni",,23,139666,,0.204,3.0,1.0,0.0322,0.544,0.294,4
+1L969l5J5Rjz5NIpxYxDhg,Giuseppe Verdi;Riccardo Muti;New Philharmonia Orchestra,"\"Verdi: Aida, Act 2: \"\"Gloria all'Egitto",,,Prigionieri,,,,,,179626.0,,10
+68CGs1SYzsXs7OMHKWpw0w,Collabro,"\"A Thousand Years (From \"\"The Twilight Saga: Breaking Dawn",,47,245013,,0.316,3.0,1.0,0.0289,0.0,0.091,4
+0izI75lnCS9WS8sDzBMC5Z,Carlo Pallavicino;Lea Desandre;Jupiter;Thomas Dunford,"furori barbari\"\"\"",,,21,73666.0,,0.33,-14.102,1.0,0.806,7.68E-4,133.106
+5my3f3dMZENvUwAXYVQNmO,Giuseppe Verdi;Riccardo Muti;New Philharmonia Orchestra,"\"Verdi: Aida, Act 1: \"\"Mortal",,,22,67333.0,,0.273,-13.182,0.0,0.992,0.102,91.467
+2eiLEt0CbVjbC2OB3W7Gi1,Giuseppe Verdi;Riccardo Muti;New Philharmonia Orchestra,"\"Verdi: Aida, Act 2: \"\"Chi mai fra gl'inni e i plausi\"\" (Schiave",,22,172066,,0.19,7.0,0.0,0.0413,0.0032,0.167,4
+46nDtZsKBCeDDs4lTJqHi1,Giacomo Puccini;Katia Ricciarelli;Ruggero Raimondi;Berliner Philharmoniker;Herbert von Karajan,"\"Tosca / Act II: \"\"Vissi d'arte",,22,231026,,0.187,3.0,1.0,0.0463,0.084,0.104,3
+7nvdj8uWalevHaOBXeXX9Q,Giuseppe Verdi;Riccardo Muti;New Philharmonia Orchestra,"\"Verdi: Aida, Act 2: \"\"Vieni",,,22,97093.0,,0.0847,-22.243,0.0,0.986,1.1E-4,89.912
+3tyVaUyQJeukAdBgHs9dXB,Gioachino Rossini;Fernanda Costa;Gloria Banditelli;Orchestra del Teatro Comunale di Bologna;Riccardo Chailly,"\"La Cenerentola / Act 1: \"\"No",,,21,98906.0,,0.143,-18.039,1.0,0.979,3.4E-4,134.113
+5JCo2JBHq9OlFreiAkHaKo,Gioachino Rossini;Maria Callas;Tullio Serafin;Orchestra del Maggio Musicale Fiorentino,"\"Rossini: Armida, Act 2: \"\"D'amore al dolce impero\"\" (Armida",,21,401973,,0.209,5.0,1.0,0.084,0.163,0.517,3
+4JzOXVJuCh9Xz6BYTdCdnO,Giuseppe Verdi;Rolando Villazón;Diane Pilcher;Wiener Philharmoniker;Carlo Rizzi,"\"La traviata / Act II: \"\"Annina",,22,141426,,0.401,0.0,1.0,0.113,1.8E-5,0.123,4
+1XNt3DnketlsS0aa3Rl65p,Andrea Bocelli;New York Philharmonic;Alan Gilbert,"\"Il Trovatore / Act 3: Il Trovatore / Act 3: \"\"Di quella pira\"\" - Live At Central Park",,20,135266,,0.338,0.0,1.0,0.0574,0.0209,0.962,3
+5MlzjVzTnolUIah7beG87r,Georges Bizet;Maria Callas;Jane Berbié;Nadine Sautereau;Orchestre de l'Opéra National de Paris;Georges Prêtre,"\"Bizet: Carmen, Act 2: \"\"Les tringles des sistres tintaient\"\" (Carmen",,,21,267746.0,,0.237,-14.006,1.0,0.845,0.0,133.67
+4gp3l2UJgijTiAJ9W2nlaV,Giuseppe Verdi;Riccardo Muti;New Philharmonia Orchestra,"\"Verdi: Aida, Act 2: \"\"Su! del Nilo al sacro lido\"\" (Chorus",,,21,169373.0,,0.166,-17.15,1.0,0.982,8.64E-4,90.051
+5xr4E3rM2nPqglIVl51kDY,Giuseppe Verdi;Riccardo Muti;New Philharmonia Orchestra,"\"Verdi: Aida, Act 2: \"\"Fu la sorte dell'armi a'tuoi funesta\"\" (Amneris",,21,159173,,0.275,7.0,1.0,0.0447,1.02E-6,0.26,3
+3uGsBBESeDs4s50u0AoZU6,Giuseppe Verdi;Dame Joan Sutherland;Marilyn Horne;Luciano Pavarotti;New York City Opera Orchestra;Richard Bonynge,"\"Ernani / Part 4: \"\"Solingo",,21,413053,,0.27,2.0,1.0,0.0568,9.37E-6,0.717,4
+5lqigS1reMNzZDpLGSRsOH,Giuseppe Verdi;Riccardo Muti;New Philharmonia Orchestra,"\"Verdi: Aida, Act 2: \"\"Salvator della patria\"\" (Il Re",,,"Sacerdoti)\"",21.0,130840.0,0.213,5.0,-23.089,0.0394,0.986,0.114
+16QKb6qf3WlmgsSDV05EZZ,Charles Lecocq;Konstantin Mortensen,"\"Pirouettes in A- Major, Opéras comiques \"\"La fille de Madama Angot\"\"",,,21,105226.0,,0.109,-20.241,1.0,0.994,0.948,60.015
+33cM7cebe6Aay0VRAqG2iU,Giuseppe Verdi;Rizzi;Carlo Rizzi;Orchestra dell'Accademia Nazionale di Santa Cecilia,"\"Verdi: Nabucco, Act 3: \"\"Va",,21,218080,,0.123,1.0,1.0,0.0397,0.879,0.123,4
+3NgDjqxOAEpwN98ngNYylN,Giuseppe Verdi;Riccardo Muti;New Philharmonia Orchestra,"\"Verdi: Aida, Act 2: \"\"Pietà ti prenda del mio dolor\"\" (Amneris",,21,115293,,0.255,5.0,0.0,0.05,1.82E-5,0.647,1
+5wIe2YrF6reUmKu1paRNp7,Giuseppe Verdi;Riccardo Muti;New Philharmonia Orchestra,"\"Verdi: Aida, Act 2: \"\"Ebben",,,"Aida)\"",21.0,175066.0,0.356,5.0,-15.501,0.0473,0.989,0.103
+17goDezWdFNGxtnn4mIt7J,Giacomo Puccini;Montserrat Caballé;London Philharmonic Orchestra;Zubin Mehta,"\"Turandot / Act 1: \"\"Signore",,20,159866,,0.228,6.0,1.0,0.0479,0.0011,0.0874,5
+2RBjAe3HSStEAovN7nRFWl,"Giuseppe Verdi;Riccardo Muti;Chorus of the Royal Opera House, Covent Garden;Fiorenza Cossotto;Montserrat Caballé;Plácido Domingo;New Philharmonia Orchestra","\"Verdi: Aida, Act 4, Scene 2: \"\"O terra",,,Radamès,,,285440.0,0.179,0.071,-22.185,1.0,1.5e-05
+4dVuD9Q69slVvod00YwcAc,"Giacomo Puccini;Montserrat Caballé;Orchestra of the Royal Opera House, Covent Garden;Sir Colin Davis","\"Tosca / Act 2: \"\"Vissi d'arte",,20,212760,,0.217,3.0,1.0,0.0505,2.99E-4,0.173,1
+5Y28Z7Wz3jmwjpOPpHyc05,Giuseppe Verdi;Riccardo Muti;New Philharmonia Orchestra,"\"Verdi: Aida, Act 2: \"\"Che veggo! Egli? Mio padre!\"\" (Aida",,,Ramfis,,,,111733.0,,0.234,2.0,0.0898
+5pMRSfPIhOngvI2pw8UG3c,Giuseppe Verdi;Riccardo Muti,"\"Verdi: Aida, Act 2: \"\"Il dolor che in quel volto favella\"\" (Radamès",,,Il Re,,,,,20.0,,0.124,-12.753
+1LyHUCk0DkvYwl7wFX1nMi,Giuseppe Verdi;Riccardo Muti;New Philharmonia Orchestra,"\"Verdi: Aida, Act 2: \"\"Ma tu",,,Aida,,,,,,104026.0,,7
+0oyXtweTvTKBU8YlQFma0G,Amaal Mallik;Arijit Singh;Tulsi Kumar,"\"Salamat (From \"\"Sarbjit\"\") (feat. Arijit Singh",,57,269996,,0.44,4.0,0.0,0.0303,0.00367,0.168,4
+3eDsxtliwduBeC3UAdOMG5,Ash King;Jigar Saraiya;Sachin-Jigar;Raftaar;Sidharth Malhotra,"\"Bandook Meri Laila (From \"\"A Gentleman\"\") (feat. Raftaar",,57,214510,,0.746,6.0,0.0,0.0397,4.7E-6,0.108,4
+1rsrri33ctr7nDU4Clf1qm,Bill Haley,"Pt. 1\"",,48,131080,,0.682,1.0,0.0,0.226,2.88E-5,0.0587,4
+4HNHnDUrpjVVf6gf8Gqlu9,Elena Kamburova,"\"Разлука - Из т/с \"\"Гардемарины",,32,152764,,0.277,4.0,0.0,0.0379,3.39E-6,0.0935,5
+5KKpPtvjMpfHUlTbFVH2u1,Elena Kamburova,"\"Разлука - Из т/с \"\"Гардемарины",,10,152764,,0.277,4.0,0.0,0.0379,3.39E-6,0.0935,5
+5viEIdvoEWe1AMb62W3JED,Российский Государственный симфонический оркестр кинематографии,"\"Не вешать нос - Из т/с \"\"Гардемарины",,22,168176,,0.548,2.0,0.0,0.0549,5.0E-5,0.125,4
+26fuEmOX5vuMZQdzTk0kvw,Дмитрий Харатьян;Светлана Тарасова,"\"Песня о любви - Из т/с \"\"Гардемарины",,20,313730,,0.319,2.0,0.0,0.0311,0.00119,0.0926,4
+4m7xhw0LE491EBBLJpXcUl,Elena Kamburova,"\"Вот опять окно (из к/ф \"\"Аэлита",,21,115253,,0.638,2.0,1.0,0.0841,0.0239,0.116,4
+3Stij2Z7cJSIi5LcTsrKn3,Elena Kamburova,"\"Разлука (из к/ф \"\"Гардемарины",,27,149053,,0.287,4.0,0.0,0.0342,2.69E-6,0.103,4
+28eZSuQEQG7lskw8GHP7GS,Дмитрий Харатьян,"\"Песня о дружбе - Из т/с \"\"Гардемарины",,5,136385,,0.403,0.0,1.0,0.093,1.21E-5,0.327,4
+2Lvca9B2AQKTNx2yNxnWbr,Sergei Lemeshev;Евгений Белоусов;Валентина Петрова;Лариса Авдеева;Galina Vishnevskaya;Boris Khaikin;Оркестр Большого театра,"\"Eugene Onegin, Op. 24, Act I Scene 1: No. 5b, Quartet \"\"Skazhi",,3,91037,,0.272,2.0,0.0,0.0931,0.0,0.135,5
+2Lvca9B2AQKTNx2yNxnWbr,Sergei Lemeshev;Евгений Белоусов;Валентина Петрова;Лариса Авдеева;Galina Vishnevskaya;Boris Khaikin;Оркестр Большого театра,"\"Eugene Onegin, Op. 24, Act I Scene 1: No. 5b, Quartet \"\"Skazhi",,3,91037,,0.272,2.0,0.0,0.0931,0.0,0.135,5
+5mpoyBYJvkAXjhNp71921W,Вероника Борисенко;Yevgeny Svetlanov;Оркестр Большого театра,"\"Rusalka, Act III Scene 1: Introduction and Princess' Aria \"\"Chu! Kazhetsya",,0,500579,,0.233,0.0,1.0,0.0619,0.0,0.418,3
+32yHd903J5GbnZasbvvRRX,Sergei Lemeshev;Лариса Авдеева;Boris Khaikin;Оркестр Большого театра,"\"Eugene Onegin, Op. 24, Act I Scene 1: No. 6b, Lensky's Arioso \"\"Ya lyublyu Vas. Ya lyublyu Vas",,4,190351,,0.248,4.0,1.0,0.066,2.25E-6,0.14,5
+6DuvzywDvjoNfL1v8SZQX9,Stephen Sondheim;Cris Groenendaal;Frank Kopyc;Richard Warren Pugh;Paul Gemignani,"\"The Ballad of Sweeney Todd: \"\"His Hands Were Quick",,28,40760,,0.585,7.0,1.0,0.0613,4.75E-6,0.618,4
+0jmz4aHEIBCRgrcV2xEkwB,Traditional;Sistine Chapel Choir;Massimo Palombella,"\"\"\"Christe",,0,289133,,0.111,10.0,1.0,0.0551,0.697,0.11,1
