@@ -1,7 +1,9 @@
 # Spotify CLI Dashboard
 
+![Dashboard Image](/dashboard.png)
+
 ## Overview
-This project features a command-line interface (CLI) dashboard designed to display various insights extracted from a Spotify dataframe. The process involves cleaning the dataframe using PySpark, as demonstrated in the Jupyter notebook. The filtered dataframe is then utilized to visualize compelling information through the dashboard.
+This project features a command-line interface (CLI) dashboard designed to display some insights extracted from a Spotify dataframe. The process involves cleaning the dataframe using PySpark, as demonstrated in the Jupyter notebook. The filtered dataframe is then utilized to visualize compelling information through the dashboard.
 
 The dashboard is implemented in Python and leverages the "rich" library, enabling the creation and styling of layouts and texts within the terminal. Additionally, graph plotting libraries are employed to enhance the visualization of data.
 
