@@ -25,3 +25,5 @@ To execute the project, follow these steps:
 3. **Run the CLI Dashboard:** Run the Python script responsible for generating the CLI dashboard. Ensure that the necessary libraries and dependencies are installed.
    ```bash
    python app.py
+
+4. **Note:** I recommend creating python virtual env to run the script
