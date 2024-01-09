@@ -26,4 +26,6 @@ To execute the project, follow these steps:
    ```bash
    python app.py
 
-4. **Note:** I recommend creating python virtual env to run the script
+## Notes
+1. I recommend creating python virtual environment to run the script.
+2. I might not work great depending on your terminal theme.
