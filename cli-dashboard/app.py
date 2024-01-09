@@ -66,7 +66,7 @@ layout['right'].split_column(
 
 
 top_popular_artists.add_column('Artist')
-top_popular_artists.add_column('Average popularity')
+top_popular_artists.add_column('Average popularity (0 to 100)')
 for artist, a_popularity in zip(popular_artists, artists_avg_popularity):
     top_popular_artists.add_row(f'{artist}', f'{a_popularity}')
 
@@ -79,9 +79,9 @@ for artist, name, popularity, genre in zip(artists, track_name, popularity, trac
     popular_songs.add_row(f'{artist}', f'{name}', f'{popularity}', f'{genre}')
 
 layout['header'].update(Panel(Text('Spotify dataframe dashboard', justify='center'), title='Spotify Analysis', style='bold white on green'))
-layout['rupper'].update(Panel(top_popular_eminem_songs_tree, title='Top most popular Emimen songs', style='bold white on green'))
-layout['rlower'].update(Panel(top_popular_kayne_songs_tree, title='Top most popular 50 cent songs', style='bold white on green'))
-layout['left'].update(Panel(pie_chart, title='Explict vs not explicit songs', style='bold white on green'))
+layout['rupper'].update(Panel(top_popular_eminem_songs_tree, title='Top most popular Emimen songs', style='bold green on white'))
+layout['rlower'].update(Panel(top_popular_kayne_songs_tree, title='Top most popular 50 cent songs', style='bold green on white'))
+layout['left'].update(Panel(pie_chart, title='Explict vs not explicit songs', style='bold green on white'))
 layout['lupper'].update(popular_songs)
 layout['llower'].update(top_popular_artists)
 

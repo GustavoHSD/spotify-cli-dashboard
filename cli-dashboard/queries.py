@@ -1,12 +1,14 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, avg, desc
+import os
 
 
 class Queries:
     def __init__(self):
         self.__session = SparkSession.builder.appName('dashboard').getOrCreate()
         try:
-            self.__df = self.__session.read.csv('../content/.f_spotifyzipcodes', header=True, inferSchema=True)
+            file_path = os.path.abspath('../content/.f_spotifyzipcodes')
+            self.__df = self.__session.read.csv('content/.f_spotifyzipcodes', header=True, inferSchema=True)
         except:
             print("File not found or not existing")
         self.__session.sparkContext.setLogLevel("ERROR")
