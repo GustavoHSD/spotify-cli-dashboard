@@ -28,4 +28,4 @@ To execute the project, follow these steps:
 
 ## Notes
 1. I recommend creating python virtual environment to run the script.
-2. I might not work great depending on your terminal theme.
+2. Works best with green on black terminal theme.
