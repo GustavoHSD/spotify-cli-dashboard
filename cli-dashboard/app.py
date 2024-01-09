@@ -1,16 +1,12 @@
 from queries import Queries
-from rich import print
 from rich.layout import Layout
 from rich.panel import Panel
 from rich.console import Console
 from rich.text import Text
 from rich.table import Table
-from rich.live import Live
-from rich.box import Box
 from rich.tree import Tree
 
 import os
-import termplotlib as tpl
 import plotext as plt
 import termcharts as tc
 
