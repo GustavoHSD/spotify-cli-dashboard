@@ -1,21 +1,17 @@
-from Spotify_df import Spotify_df
-from rich import print
+from queries import Queries
 from rich.layout import Layout
 from rich.panel import Panel
 from rich.console import Console
 from rich.text import Text
 from rich.table import Table
-from rich.live import Live
-from rich.box import Box
 from rich.tree import Tree
 
 import os
-import termplotlib as tpl
 import plotext as plt
 import termcharts as tc
 
 
-spotify_df = Spotify_df()
+spotify_df = Queries()
 console = Console(height=55)
 layout = Layout(name='root')
 popular_songs = Table(title="Top most popular songs of the least popular genres", show_header=True, header_style="bold white on green", expand=True, title_style='bold white on green')
@@ -89,9 +85,5 @@ layout['left'].update(Panel(pie_chart, title='Explict vs not explicit songs', st
 layout['lupper'].update(popular_songs)
 layout['llower'].update(top_popular_artists)
 
-
-
 console.print(layout)
 plt.show()
-
-print('ok')
