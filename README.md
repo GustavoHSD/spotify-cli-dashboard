@@ -17,14 +17,14 @@ To execute the project, follow these steps:
 
 1. **Install Dependencies:** Make sure to install the required dependencies by running:
     ```
-    pip install rich pyspark
+    pip install -r requirements.txt
     ```
 
 2. **Run the Jupyter Notebook:** Execute the Jupyter notebook to perform data cleaning on the Spotify dataframe.
 
 3. **Run the CLI Dashboard:** Run the Python script responsible for generating the CLI dashboard. Ensure that the necessary libraries and dependencies are installed.
    ```bash
-   python app.py
+   python cli-dashboard/app.py
 
 ## Notes
 1. I recommend creating python virtual environment to run the script.
